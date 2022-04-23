@@ -1,4 +1,4 @@
-# ryandrake182 ![](https://ryandrake.co.uk/images/blink_neon_tiny.png =16x16)
+# ryandrake182
 
 ### Senior Systems Administrator - https://www.ryandrake.co.uk
 
