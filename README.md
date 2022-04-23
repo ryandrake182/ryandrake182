@@ -7,4 +7,4 @@ I use GitHub mainly for work, but also for my personal website, the main branch 
 
 ![](https://github.com/ryandrake182/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/ryandrake182/github-stats/blob/master/generated/languages.svg)
-<sup>GitHub stats generated with [jstrieb/github-stats](https://github.com/jstrieb/github-stats "jstrieb/github-stats")</sup>
+<br /><sup>GitHub stats generated with [jstrieb/github-stats](https://github.com/jstrieb/github-stats "jstrieb/github-stats")</sup>
