@@ -2,8 +2,10 @@
 
 ### Senior Systems Administrator - https://www.ryandrake.co.uk
 
-This profile will likely never contain any public repositories, but below are some stats, which do include everything from my private repositories. 
-<br /><br />I use GitHub mainly to store my collection of self-written PowerShell scripts from over the years, for work -- but I also use it for my personal website, the main branch of which is auto-deployed to my production environment running on AWS Amplify.
+<br />I use GitHub mainly to store my collection of self-written PowerShell & batch scripts from over the years, for work -- but I also use it for my personal website, the main branch of which is auto-deployed to my production environment running on AWS Amplify.
+<br />
+<br />
+This profile will likely never contain any public repositories. However, below are some stats, which do include my private repositories. 
 <br />
 <br />
 ![](https://github.com/ryandrake182/github-stats/blob/master/generated/overview.svg)
