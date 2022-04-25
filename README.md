@@ -8,6 +8,6 @@
 This profile will likely never contain any public repositories. However, below are some stats, which do include my private repositories. 
 <br />
 <br />
-![GitHubStats1](https://github.com/ryandrake182/github-stats/blob/master/generated/overview.svg)
-![GitHubStats2](https://github.com/ryandrake182/github-stats/blob/master/generated/languages.svg)
+![GitHubStats1](https://raw.githubusercontent.com/ryandrake182/github-stats/master/generated/overview.svg)
+![GitHubStats2](https://raw.githubusercontent.com/ryandrake182/github-stats/master/generated/languages.svg)
 <br /><sup>These awesome stats images are generated with [jstrieb/github-stats](https://github.com/jstrieb/github-stats "jstrieb/github-stats")</sup>
