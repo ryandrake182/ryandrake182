@@ -2,7 +2,7 @@
 
 ### Senior Systems Administrator - https://www.ryandrake.co.uk
 
-<br />I use GitHub mainly to store my collection of self-written PowerShell & batch scripts from over the years, for work -- but I also use it for my personal website, the main branch of which is auto-deployed to my production environment running on AWS Amplify.
+<br />I use GitHub mainly to store my collection of self-written PowerShell & batch scripts from over the years, for work -- but I also use it for my personal website, the main branch of which is auto-deployed to my production environment running on AWS Amplify; and for my homelab, both for the Docker Compose environment and my custom Solar monitoring app.
 <br />
 <br />
 This profile will likely never contain any public repositories. However, below are some stats, which do include my private repositories. 
